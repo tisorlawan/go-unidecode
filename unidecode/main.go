@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/mattn/go-isatty"
-	"github.com/mozillazg/go-unidecode"
+	"github.com/tisorlawan/go-unidecode"
 )
 
 func main() {
